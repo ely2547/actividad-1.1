@@ -1,16 +1,16 @@
 # actividad-1.1
 
-Introducción
+## Introducción
 
 Esta es una aplicación de gestión de inventario construida con React. La aplicación permite a los usuarios agregar, eliminar y editar elementos en el inventario. La aplicación también incluye una función de búsqueda para filtrar elementos por nombre.
 
-Cómo usar la aplicación
+## Cómo usar la aplicación
 
 Para agregar un elemento al inventario, haga clic en el botón "Agregar" y complete los campos de nombre y cantidad. Para eliminar un elemento, haga clic en el botón "Eliminar" correspondiente. Para editar un elemento, haga clic en el botón "Editar" correspondiente y complete los campos de nombre y cantidad.
 
 Para buscar elementos por nombre, ingrese el término de búsqueda en el campo de búsqueda y la aplicación filtrará los elementos que coincidan con el término de búsqueda.
 
-Cómo ejecutar la aplicación
+## Cómo ejecutar la aplicación
 
 Para ejecutar la aplicación, siga los siguientes pasos:
 
@@ -19,7 +19,7 @@ Para ejecutar la aplicación, siga los siguientes pasos:
 3. Ejecute el comando `npm start` para iniciar la aplicación.
 4. Abra su navegador web y navegue a `http://localhost:3000` para ver la aplicación en funcionamiento.
 
-Archivos
+## Archivos
 
 - App.js: Este archivo contiene la lógica principal de la aplicación.
 
@@ -33,14 +33,14 @@ Archivos
 
 - package.json: Este archivo contiene información sobre las dependencias y scripts del proyecto.
 
-Dependencias
+## Dependencias
 
 Esta aplicación de gestion de inventario utiliza las siguientes dependencias principales:
 - React
 - React DOM
 - React Scripts
 - Tailwind CSS
-- 
-Estilos
+
+## Estilos
 
 El archivo App.css incluye la integración de Tailwind CSS a través de las directivas @tailwind base; @tailwind components; y @tailwind utilities. La aplicación utiliza clases de Tailwind CSS para definir los estilos de los elementos HTML.
