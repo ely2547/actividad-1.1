@@ -10,7 +10,7 @@ Para agregar un elemento al inventario, haga clic en el botón "Agregar" y compl
 
 Para buscar elementos por nombre, ingrese el término de búsqueda en el campo de búsqueda y la aplicación filtrará los elementos que coincidan con el término de búsqueda.
 
-![Diseño sin título (online-video-cutter com)(1)](https://github.com/ely2547/actividad-1.1/assets/102032989/cbecdb17-4618-4fd9-8e4e-690589a0b0f1)
+![Diseño sin título](https://github.com/ely2547/actividad-1.1/assets/102032989/5a84a773-627e-4de9-9eed-6badf98e6eb8)
 
 ## Cómo ejecutar la aplicación
 
