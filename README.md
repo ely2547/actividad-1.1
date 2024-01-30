@@ -21,17 +21,17 @@ Para ejecutar la aplicación, siga los siguientes pasos:
 
 Archivos
 
--App.js: Este archivo contiene la lógica principal de la aplicación.
+- App.js: Este archivo contiene la lógica principal de la aplicación.
 
--App.css: Este archivo incluye la integración de Tailwind CSS a través de las directivas @tailwind base;, @tailwind components; y @tailwind utilities. 
+- App.css: Este archivo incluye la integración de Tailwind CSS a través de las directivas @tailwind base;, @tailwind components; y @tailwind utilities. 
 
 - index.html: Este archivo es la plantilla HTML para la aplicación. Contiene metadatos, enlaces a recursos y el punto de entrada para la aplicación React.
 
--index.js: Este archivo es el punto de entrada de la aplicación React. Contiene el código para renderizar la aplicación en el elemento `root` del archivo HTML.
+- index.js: Este archivo es el punto de entrada de la aplicación React. Contiene el código para renderizar la aplicación en el elemento `root` del archivo HTML.
 
--tailwind.config.js: Este archivo es la configuración de Tailwind CSS para la aplicación. Define la configuración del tema y el contenido que se debe analizar en busca de clases no utilizadas.
+- tailwind.config.js: Este archivo es la configuración de Tailwind CSS para la aplicación. Define la configuración del tema y el contenido que se debe analizar en busca de clases no utilizadas.
 
--package.json: Este archivo contiene información sobre las dependencias y scripts del proyecto.
+- package.json: Este archivo contiene información sobre las dependencias y scripts del proyecto.
 
 Dependencias
 
